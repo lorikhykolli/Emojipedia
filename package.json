@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://lorikhykolli.github.io/Emojipedia",
+  "homepage": "https://lorik.github.io/emojipedia",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
